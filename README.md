@@ -7,7 +7,6 @@ The excel sheet used is not included in this repo, as I do not have permission t
 
 ## Evaluator results
 Accuracy:  0.6705882352941176
-
 Sensitivity:  0.5263157894736842
 Specificity:  0.7872340425531915
 Precision:  0.6666666666666666
